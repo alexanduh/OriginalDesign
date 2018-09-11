@@ -21,7 +21,6 @@ void draw() {
   popMatrix();
   textSize(25);
   translate(460, -150);
-  text("pIcK tHe cOlOrS iN tHe rIgHt oRdEr", -100, 330);
   text("", 50, 300);
   
 }
